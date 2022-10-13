@@ -5,6 +5,9 @@ password:password
 ***********************************
 
 Instalacion
+*****
+version del php 8.1
+*****
 ************
 1. Clonar proyecto
 2. Por consola adentro de la carpeta del proyecto ejecutar el comando "composer i o composer install" para instalar dependencias
